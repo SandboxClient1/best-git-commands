@@ -1,2 +1,5 @@
-# best-git-commands
-20 useful git commands with explanation, use-case, examples and 3-options.
+# Best-Git-Commands
+
+## 20 useful Git commands with brief description, use-case, examples and options/parameters.
+
+Created using Grok-3!
